@@ -1,4 +1,4 @@
-classes= 2
+classes= 10
 train  = /content/Yolov4-Tiny/train.txt
 valid  = /content/Yolov4-Tiny/valid.txt
 names = /content/Yolov4-Tiny/obj.names
